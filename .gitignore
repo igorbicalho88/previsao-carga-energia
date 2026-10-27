@@ -1,0 +1,8 @@
+# ambiente e cache
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# dados baixados do ONS (qualquer pessoa pode baixar de novo com o notebook 01)
+data/
